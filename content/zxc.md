@@ -20,7 +20,7 @@ interface.
 * http/1.1 and websocket support.
 
 # Repo Links
-[zxc proxy binary](https://github.com/hail-hydrant/zxc)
+[proxy binary](https://github.com/hail-hydrant/zxc)
 
 [vim plugin](https://github.com/hail-hydrant/zxc.vim)
 
@@ -145,12 +145,11 @@ interface.
         caption_style="font-style: bold;") }}
 
 # Social
-[reddit](https://www.reddit.com/r/zxc_proxy/)
-
-[x](https://x.com/zxc_proxy)
-
+<b><i>
+/
 [bluesky](https://bsky.app/profile/zxc-proxy.bsky.social)
-
-
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge)][bluesky]
-[bluesky]: https://bsky.app/profile/zxc-proxy.bsky.social
+/
+[reddit](https://www.reddit.com/r/zxc_proxy/)
+/
+[x](https://x.com/zxc_proxy)
+/</b></i>
